@@ -9,3 +9,6 @@ class HelloWorld {
 }
 >>>>>>> 7554c45 (Update in test.java)
 
+
+Github is a version control system and Git is a Tool
+
