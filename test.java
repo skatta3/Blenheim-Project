@@ -13,4 +13,3 @@ class HelloWorld {
 
 Github is a version control system and Git is a Tool
 
-Welcome
