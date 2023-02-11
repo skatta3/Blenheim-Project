@@ -1,0 +1,2 @@
+Testing git Reset modes, reset mixed
+Welcome
