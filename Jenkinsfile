@@ -3,7 +3,7 @@ node {
       git branch: 'master', url: 'https://github.com/daticahealth/java-tomcat-maven-example.git'        
     }
     stage('Package')   {
-        sh 'mvn package'       
+        sh 'mvn clean package'       
     }
     stage('Archive') {
         archiveArtifacts artifacts: 'target\\java-tomcat-maven-example.war', followSymlinks: false
